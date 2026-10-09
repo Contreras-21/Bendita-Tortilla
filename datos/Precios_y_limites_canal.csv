@@ -1,0 +1,5 @@
+﻿producto,kg_paquete,EUR_paquete_con_IVA,EUR_kg_con_IVA,EUR_kg_sin_IVA,techo_coste_importador_EUR_kg_modelado,conservacion,fuente
+Maíz amarillo,1.32,4.55,3.446969696969697,3.221467006513735,1.9328802039082413,Congelado,S22
+Maíz azul,1.32,7.48,5.666666666666667,5.29595015576324,3.1775700934579443,Congelado; referencia distinta,S23
+Harina 16 cm,0.49,3.0,6.122448979591836,5.721914934197978,3.4331489605187873,Congelado,S23
+Harina TURKA 35 cm,1.76,7.25,4.119318181818182,3.84983007646559,2.309898045879354,Ambiente; referencia distinta,S24

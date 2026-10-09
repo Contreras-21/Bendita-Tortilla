@@ -1,0 +1,18 @@
+﻿variable,valor,unidad,estatus_fuente
+FCA maíz,1.5,EUR/kg,Objetivo interno; incluye entrega/exportación hasta NLU; no oferta del fabricante
+FCA harina,2.1,EUR/kg,Objetivo interno; no oferta del fabricante
+Flete aéreo,4 / 8 / 12,EUR/kg cobrable,Valores de estrés; no tarifas observadas
+Peso cobrable/neto,1.12,factor,Hipótesis; sustituir por máximo del bruto y volumétrico de la cotización
+Seguro,0.005,fracción de mercancía+flete,Hipótesis; cobertura real por cotizar
+EA,20,EUR/100kg netos,Hipótesis Meursing; sensibilidad 0/20/40; no derecho liquidado
+AD F/M,0,EUR/100kg,Hipótesis; reemplazar por código adicional real
+Ad valorem CN19059080,0.09,fracción,"Consulta Access2Markets 09-10-2026, S46"
+MAX ad valorem,0.207,fracción,"Consulta Access2Markets, S46"
+Servicios fijos destino,700,EUR/lote,Hipótesis desglosada: despacho200+traslado400+reserva cámara100
+Almacén y reparto variable,0.4,EUR/kg bruto de producto,Hipótesis .15 almacén+.25 reparto
+Reserva financiera,0.02,fracción de subtotal,Política de estrés; distinta de merma física
+Merma,0.05,fracción de kg netos,Hipótesis de rendimiento vendible
+IVA,0.07,fracción,"Consulta A2M; recuperabilidad no presumida, S46"
+Margen minorista,0.25,sobre precio de venta neto,Política de cálculo; no margen observado de competidor
+Margen distribuidor,0.2,sobre precio de venta neto,Política de cálculo; no contrato
+Ventas netas base,390,kg/mes,"Meta de cartera, no demanda observada"

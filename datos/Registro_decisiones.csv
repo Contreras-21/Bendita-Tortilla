@@ -1,0 +1,11 @@
+﻿ID,decision,base_fuente,estado,evidencia_para_aprobar
+D01,Alemania,Mandato promotor,Definido,Pedidos en Berlín
+D02,Moabit Beusselstraße44NQ,"S49,S50",Propuesto,Contrato de recepción y congelación
+D03,Kreuzberg investigación,"S51,S52,S53",Propuesto,Permisos y compradores
+D04,Congelación ambosSKU,S19–S24,Desarrollo,Vida propia porSKU
+D05,Muestra60kg,Diseño interno,Tope propuesto,Seguridad y RFQ
+D06,Lote411kg,"390/0.95,redondeo superior",Calculado de meta hipotética,Pedidos390kg y mezcla real
+D07,Carga marítima compartida,S54 acredita rotación no consolidación,Condicionado,Aceptación y costo completo
+D08,Precio comparación neta,S22–S24; márgenes internos25/20,Calculado,Oferta B2B y prima aceptada
+D09,CN30/80,"S46,S47",Probable,Dictamen y composición
+D10,Sin retorno inventado,Sin costos internos/cotizaciones,Decisión de prudencia financiera,Flujo completo de inversión

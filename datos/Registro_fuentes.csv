@@ -1,0 +1,100 @@
+﻿ID,descripcion,URL,fecha_consulta
+S01,"Banco Mundial. World Development Indicators (extracción API, actualización indicada por cada serie).",https://data.worldbank.org/,2026-10-09
+S01,NY.GDP.MKTP.KD.ZG,https://api.worldbank.org/v2/country/DEU;ESP;NLD/indicator/NY.GDP.MKTP.KD.ZG?date=2021:2025&format=json&per_page=100,2026-10-09
+S01,NY.GDP.PCAP.CD,https://api.worldbank.org/v2/country/DEU;ESP;NLD/indicator/NY.GDP.PCAP.CD?date=2021:2025&format=json&per_page=100,2026-10-09
+S01,SP.POP.TOTL,https://api.worldbank.org/v2/country/DEU;ESP;NLD/indicator/SP.POP.TOTL?date=2021:2025&format=json&per_page=100,2026-10-09
+S01,FP.CPI.TOTL.ZG,https://api.worldbank.org/v2/country/DEU;ESP;NLD/indicator/FP.CPI.TOTL.ZG?date=2021:2025&format=json&per_page=100,2026-10-09
+S01,SL.UEM.TOTL.ZS,https://api.worldbank.org/v2/country/DEU;ESP;NLD/indicator/SL.UEM.TOTL.ZS?date=2021:2025&format=json&per_page=100,2026-10-09
+S01,NE.IMP.GNFS.CD,https://api.worldbank.org/v2/country/DEU;ESP;NLD/indicator/NE.IMP.GNFS.CD?date=2021:2025&format=json&per_page=100,2026-10-09
+S01,NE.EXP.GNFS.CD,https://api.worldbank.org/v2/country/DEU;ESP;NLD/indicator/NE.EXP.GNFS.CD?date=2021:2025&format=json&per_page=100,2026-10-09
+S02,Unión Europea. Perfil de Alemania.,https://european-union.europa.eu/principles-countries-history/eu-countries/germany_en,2026-10-09
+S03,Unión Europea. Perfil de España.,https://european-union.europa.eu/principles-countries-history/eu-countries/spain_en,2026-10-09
+S04,Unión Europea. Perfil de Países Bajos.,https://european-union.europa.eu/principles-countries-history/eu-countries/netherlands_es,2026-10-09
+S05,"INE. Serie anual del PIB de España, revisión publicada en 2026.",https://www.ine.es/prensa/pib_tabla_cne.htm,2026-10-09
+S06,"CBS. Economic growth; economic activity, region, National Accounts, tabla 85926ENG.",https://www.cbs.nl/en-gb/figures/detail/85926ENG,2026-10-09
+S07,"CBS. Consumer prices; price index 1900=100, tabla 71905ENG.",https://www.cbs.nl/en-gb/figures/detail/71905eng,2026-10-09
+S08,Destatis. CORRECTION: Inflation rate at +2.2% in 2025.,https://www.destatis.de/EN/Press/2026/01/PE26_019_611.html,2026-10-09
+S09,Destatis. Consumer price index: estimación preliminar de septiembre de 2026.,https://www.destatis.de/EN/Themes/Economy/Prices/Consumer-Price-Index/_node.html,2026-10-09
+S10,"Banco Mundial/WITS, UN Comtrade. Alemania, importaciones HS 190590, 2020–2024.",https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2024/tradeflow/Imports/partner/ALL/product/190590,2026-10-09
+S10,2020,https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2020/tradeflow/Imports/partner/ALL/product/190590,2026-10-09
+S10,2021,https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2021/tradeflow/Imports/partner/ALL/product/190590,2026-10-09
+S10,2022,https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2022/tradeflow/Imports/partner/ALL/product/190590,2026-10-09
+S10,2023,https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2023/tradeflow/Imports/partner/ALL/product/190590,2026-10-09
+S11,"Banco Mundial/WITS, UN Comtrade. Alemania, exportaciones HS 190590, 2020–2024.",https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2024/tradeflow/Exports/partner/ALL/product/190590,2026-10-09
+S11,2020,https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2020/tradeflow/Exports/partner/ALL/product/190590,2026-10-09
+S11,2021,https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2021/tradeflow/Exports/partner/ALL/product/190590,2026-10-09
+S11,2022,https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2022/tradeflow/Exports/partner/ALL/product/190590,2026-10-09
+S11,2023,https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2023/tradeflow/Exports/partner/ALL/product/190590,2026-10-09
+S12,"Banco Mundial/WITS, UN Comtrade. España, comercio HS 190590, 2024.",https://wits.worldbank.org/trade/comtrade/en/country/ESP/year/2024/tradeflow/Imports/partner/ALL/product/190590,2026-10-09
+S12,Exportaciones 2024,https://wits.worldbank.org/trade/comtrade/en/country/ESP/year/2024/tradeflow/Exports/partner/ALL/product/190590,2026-10-09
+S13,"Banco Mundial/WITS, UN Comtrade. Países Bajos, comercio HS 190590, 2024.",https://wits.worldbank.org/trade/comtrade/en/country/NLD/year/2024/tradeflow/Imports/partner/ALL/product/190590,2026-10-09
+S13,Exportaciones 2024,https://wits.worldbank.org/trade/comtrade/en/country/NLD/year/2024/tradeflow/Exports/partner/ALL/product/190590,2026-10-09
+S14,"Destatis. GENESIS, estadística de extranjeros por nacionalidad, tabla 12521-0002. Ruta de extracción demográfica; sin cifra adoptada en este informe.",https://genesis.destatis.de/datenbank/online/statistic/12521/table/12521-0002,2026-10-09
+S15,Consejo de la UE. EU-Mexico: Council gives final approval to modernised trade agreement (14 julio 2026).,https://www.consilium.europa.eu/en/press/press-releases/2026/07/14/eu-mexico-council-gives-final-approval-to-modernised-trade-agreement/,2026-10-09
+S16,Tlaxcalli. Información de producción y empresa.,https://www.tlaxcalli.de/en/home/,2026-10-09
+S17,"La Tortilla. Corporate info, Unterschleißheim.",https://www.latortilla.de/en/corporate-info,2026-10-09
+S18,Moctezuma Foods. Oferta para Alemania y producción en Praga.,https://moctezumafoods.eu/moctezuma-germany/,2026-10-09
+S19,Vida de anaquel y evaluación sensorial de tortillas de maíz elaboradas con conservadores y mejoradores (1998). Registro del artículo científico.,https://pubmed.ncbi.nlm.nih.gov/9673700/,2026-10-09
+S20,Bejosano et al. (2005). Rheological and Sensory Evaluation of Wheat Flour Tortillas During Storage. Cereal Chemistry.,https://www.cerealsgrains.org/publications/cc/2005/May/Pages/82_3_256.aspx,2026-10-09
+S21,Báez-Aguilar et al. (2022). Effect of calcium hydroxide mixed with preservatives on physicochemical characteristics and sensory shelf-life of corn tortilla. DOI: 10.1002/jsfa.11399.,https://pubmed.ncbi.nlm.nih.gov/34173240/,2026-10-09
+S22,"Mex-Al. Ficha individual de tortilla de maíz amarillo 15 cm, 1.32 kg, congelada.",https://www.mex-al.de/en/mex-al-products/382/corntortillas-6-yellow-soft-oe-ca15cm-22g-60-pieces-vacuumbag,2026-10-09
+S23,Mex-Al. Fichas individuales de maíz azul y harina congelada.,https://www.mex-al.de/en/mex-al-products/200/blue-corntortillas-oe-15cm-60-with-22g-ea-1320g-bag-frozen-180c-gmo-free,2026-10-09
+S23,"Harina 16 cm, 0.49 kg",https://www.mex-al.de/en/food/tortillas/frozen-wheat-flour-tortillas/61/wheatflourtortillas-6-oe-ca-16cm-27g-18-pieces-bag,2026-10-09
+S24,"Mex-Al. Ficha individual TURKA harina ambiente, 35 cm, 1.76 kg.",https://www.mex-al.de/en/food/basic-ingredients/2234/35-cm-turka-ambient-wheat-flour-tortillas-35-cm-16-pcs/bag-1760-g,2026-10-09
+S25,Comisión Europea y EUR-Lex. Información alimentaria: Reglamento 1169/2011.,https://eur-lex.europa.eu/eli/reg/2011/1169/oj/eng,2026-10-09
+S25,Idioma y presentación,https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/language-and-presentation-food-information_en,2026-10-09
+S26,Comisión Europea. Reglamento de Ejecución 828/2014: información sobre ausencia o presencia reducida de gluten.,https://eur-lex.europa.eu/eli/reg_impl/2014/828/oj,2026-10-09
+S27,"Diario Oficial de la Federación. NOM-251-SSA1-2009, prácticas de higiene.",https://dof.gob.mx/normasOficiales/3980/salud/salud.htm,2026-10-09
+S28,"Parlamento Europeo y Consejo. Reglamento 178/2002, legislación alimentaria y trazabilidad.",https://eur-lex.europa.eu/eli/reg/2002/178/oj/eng,2026-10-09
+S29,"Parlamento Europeo y Consejo. Reglamento 852/2004, higiene de los alimentos.",https://eur-lex.europa.eu/eli/reg/2004/852/oj/eng,2026-10-09
+S30,Comisión Europea. Condiciones de entrada de productos compuestos.,https://food.ec.europa.eu/horizontal-topics/international-affairs/eu-entry-conditions/composite-products_en,2026-10-09
+S31,Comisión Europea. Access2Markets y relación comercial México–UE.,https://trade.ec.europa.eu/access-to-markets/en/my-trade-assistant,2026-10-09
+S31,Estado de acuerdos México–UE,https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mexico_en,2026-10-09
+S32,Zoll y Secretaría de Economía/SNICE. Clasificación y procedimiento aduanero.,https://www.zoll.de/EN/Businesses/Movement-of-goods/Import/Duties-and-taxes/Normal-customs-clearance/Customs-Tariff/customs-tariff_node.html,2026-10-09
+S32,SNICE: fracción arancelaria,https://www.snice.gob.mx/cs/avi/snice/hce.mi.fraccion.arancelaria.html,2026-10-09
+S32,Estructura NICO,https://www.snice.gob.mx/cs/avi/snice/nico.ligie.html,2026-10-09
+S32,"EORI, Cámara de Hamburgo",https://www.handelskammer-hamburg.de/eng/hauptnavigation/international/import-export/import-goods-third-countries-6824792,2026-10-09
+S33,Port of Rotterdam. Reefer containers y Rotterdam Food Hub.,https://www.portofrotterdam.com/en/logistics/cargo/containers/reefer-containers,2026-10-09
+S33,Rotterdam Food Hub,https://www.portofrotterdam.com/en/setting/location-options/rotterdam-food-hub,2026-10-09
+S34,Maersk. Logística de cadena de frío.,https://www.maersk.com/es-mx/supply-chain-logistics/cold-chain-logistics,2026-10-09
+S35,DHL. FoodLogistics: productos y servicios.,https://www.dhl.com/de-en/microsites/freight/food-logistics/products-and-services.html,2026-10-09
+S36,Comisión Europea. Legislación de materiales en contacto con alimentos.,https://food.ec.europa.eu/food-safety/chemical-safety/food-contact-materials/legislation_en,2026-10-09
+S37,ZSVR y EUR-Lex. Registro de envases y Reglamento 2025/40.,https://www.verpackungsregister.org/en/registration/find-out-about-registrations,2026-10-09
+S37,Obligaciones complementarias LUCID,https://www.verpackungsregister.org/en/faq-detail-category/questions-about-registration,2026-10-09
+S37,Reglamento 2025/40,https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng,2026-10-09
+S37,Resumen y fechas,https://eur-lex.europa.eu/EN/legal-content/summary/packaging-and-packaging-waste-from-2026.html,2026-10-09
+S38,Bancomext. Empresas y financiamiento de comercio exterior.,https://www.bancomext.com/conoce-bancomext/quienes-somos/nuestros-clientes/,2026-10-09
+S39,Mexicanos en Alemania @Oficial. Comunidad identificada para posible reclutamiento.,https://www.facebook.com/groups/ayudaunmexicanoenalemania/,2026-10-09
+S40,NVWA. Importación de alimentos de origen no animal en Países Bajos.,https://www.nvwa.nl/onderwerpen/voedselveiligheid/import-levensmiddelen-en-diervoeder-van-niet-dierlijke-oorsprong,2026-10-09
+S40,"Impuestos de importación, Gobierno neerlandés",https://www.government.nl/themes/taxes-benefits-and-allowances/export-import-and-customs/taxes-on-imported-goods,2026-10-09
+S41,Comisión Europea. Base de aditivos autorizados y condiciones de uso.,https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en,2026-10-09
+S42,"Comisión Europea. Reglamento 2023/915, contaminantes en alimentos; consultar versión consolidada vigente.",https://eur-lex.europa.eu/eli/reg/2023/915/oj/eng,2026-10-09
+S43,Comisión Europea. Import controls of food and feed Q&As.,https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/import-controls-food-and-feed-qas_en,2026-10-09
+S44,SAT. Factura de comercio exterior y complemento aplicable.,https://wwwmatnp.sat.gob.mx/consultas/61165/comprobante-de-comercio-exterior,2026-10-09
+S45,CAMEXA/AHK México. Sobre nosotros.,https://mexiko.ahk.de/es/sobre-nosotros,2026-10-09
+S46,"Comisión Europea, Access2Markets. Consulta directa MX → DE, CN19059080, arancel actualizado 09-10-2026; impuestos actualizados 24-07-2026. Consultar además CN19059030 cambiando product. Registro de observación en anexo.",https://trade.ec.europa.eu/access-to-markets/en/results?product=19059080&origin=MX&destination=DE,2026-10-09
+S47,"Unión Europea. Acuerdo comercial interino UE–México firmado, DO L 2026/1528, 31-07-2026; artículo 33.9.2 y anexo 2-A, calendario UE en CN2016. PDF oficial, 975 páginas.",https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A22026A01528,2026-10-09
+S48,"Amt für Statistik Berlin-Brandenburg. Einwohnerregisterstatistik Berlin, 31-12-2025, A I 5 – hj 2/25, febrero 2026. Tablas 1,7,10,11; PDF pp.4,10,20,24.",https://download.statistik-berlin-brandenburg.de/b50a3a074782ec0e/e0095590e436/SB_A01-05-00_2025h02_BE.pdf,2026-10-09
+S49,"Berliner Großmarkt GmbH. Sobre el complejo y datos de infraestructura; dirección en sitio del operador. Datos declarados por la empresa, no estadísticas de tortilla.",https://www.berliner-grossmarkt-gmbh.de/ueber-uns,2026-10-09
+S50,"Directorio Berliner Großmarkt. Wittenbeck Großhandel, Halle29A, alimentos y productos congelados.",https://www.grossmarkt-berlin.de/marktstaende/dealer/wittenbeck-grosshandel,2026-10-09
+S51,"Markthalle Neun. Mais, Brandenburg und Mexiko, septiembre2026: oferta mexicana y nixtamal regional. Dirección en sitio.",https://markthalleneun.de/neues-aus-der-halle/mais-brandenburg-und-mexiko,2026-10-09
+S52,"Ta'Cabrón. Sitio de la taquería, Skalitzer Straße60,10997Berlín.",https://tacabrontaqueria.wordpress.com/,2026-10-09
+S53,"Chaparro. Aviso corporativo, Wiener Straße14a,10999Berlín.",https://chaparro-berlin.de/en/impressum/,2026-10-09
+S54,"Hapag-Lloyd. Actualización de rotación AL4,16-07-2026; título/URL del sitio menciona SE4 pero el aviso describe la rotación AL4.",https://www.hapag-lloyd.com/en/services-information/news/2026/07/routing-update-for-our-se4-service.html,2026-10-09
+S55,"Lufthansa Cargo. Perishables, soluciones de temperatura y FRO; confirmar contrato y especificación térmica.",https://www.lufthansa-cargo.com/en/perishables,2026-10-09
+S56,Lufthansa Cargo. Estaciones NLU y FRA; la infraestructura publicada no acredita reserva o temperatura puerta a puerta.,https://www.lufthansa-cargo.com/en/network/maps/stations/details/NLU,2026-10-09
+S57,Reglamento (CE)1829/2003. Alimentos/piensos modificados genéticamente: autorización y etiquetado.,https://eur-lex.europa.eu/eli/reg/2003/1829/oj/eng,2026-10-09
+S58,Reglamento (CE)1830/2003. Trazabilidad y etiquetado de OGM y productos producidos a partir de OGM.,https://eur-lex.europa.eu/eli/reg/2003/1830/oj/eng,2026-10-09
+S59,Reglamento (UE)2017/2158. Mitigación y niveles de referencia para acrilamida; confirmar categoría de tortilla.,https://eur-lex.europa.eu/eli/reg/2017/2158/oj/eng,2026-10-09
+S60,"Reglamento (CE)2073/2005. Criterios microbiológicos, consultar versión vigente y categoría.",https://eur-lex.europa.eu/eli/reg/2005/2073/oj/eng,2026-10-09
+S61,Reglamento (UE)2024/2895. Modifica criterios de Listeria monocytogenes; aplicación01-07-2026.,https://eur-lex.europa.eu/eli/reg/2024/2895/oj/eng,2026-10-09
+S62,"Reglamento (UE)2016/679. RGPD: basejurídica, información, derechos, seguridad y transferencias internacionales.",https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng,2026-10-09
+S63,"Cámara de Diputados. LFPDPPP, nueva ley DOF20-03-2025; texto vigente con última reforma14-11-2025.",https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf,2026-10-09
+S64,"Lufthansa Cargo AG. Traslado permanente de cargueros B777 a NLU desde07-07-2023, anuncio oficial.",https://lufthansa-cargo-ag-com.mynewsdesk.com/pressreleases/lufthansa-cargo-expands-cargo-services-to-two-airports-in-mexico-city-3259978,2026-10-09
+S65,Zoll. Customs valuation: valor en aduana y métodos.,https://www.zoll.de/EN/Businesses/Movement-of-goods/Import/Duties-and-taxes/Normal-customs-clearance/Customs-value/customs-value.html,2026-10-09
+S66,Zoll. Información arancelaria vinculante (Binding Tariff Information).,https://www.zoll.de/EN/Businesses/Movement-of-goods/Import/Duties-and-taxes/Normal-customs-clearance/Customs-Tariff/customs-tariff_node.html,2026-10-09
+S67,"UE. Nomenclatura arancelaria, definición de EA y MAX en capítulos17–19 y21; explicación de la notación, no tarifa2026.",https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32021R1832,2026-10-09
+S68,"International Trade Administration. Germany: Business Travel, Business Customs, publicado01-08-2025; guía cualitativa.",https://www.trade.gov/country-commercial-guides/germany-business-travel,2026-10-09
+S69,"Wisconsin Economic Development Corporation. Understanding German business culture and communication customs; guía institucional cualitativa, sin fecha inequívoca adoptada.",https://wedc.org/market-intelligence/posts/understanding-german-business-culture-and-communication-customs/,2026-10-09
+S70,"BusinessCulture.org. Business meeting etiquette in Germany. Guía de reuniones; orientación general con referencias antiguas, no utilizada como fuente jurídica.",https://businessculture.org/western-europe/business-culture-in-germany/meeting-etiquette-in-germany/,2026-10-09
+S71,Berlin Partner for Business and Technology. Presentación institucional: diversidad e internacionalidad del entorno berlinés; no acredita condiciones de un comprador.,https://www.berlin-partner.de/en,2026-10-09
